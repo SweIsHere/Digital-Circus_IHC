@@ -2,6 +2,12 @@
 
 2026-1 UTEC Proyecto IHC. Digital Circus Puzzle Room.
 
+![Digital Circus Puzzle Rooms VR](./WhatsApp%20Image%202026-07-01%20at%205.43.15%20PM.jpeg)
+
+## Formulario de feedback
+
+[Completa el formulario de feedback aquí](https://docs.google.com/forms/d/1rp0fCl0Eo84rkufCutFcHo53kPrBW5otOZdp5Onuzeo/viewform?edit_requested=true)
+
 ## Contenido del repositorio
 
 - **APK/** — Build instalable de la aplicación VR (`Puzzletadc.apk`) para Meta Quest.
